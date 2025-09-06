@@ -94,5 +94,3 @@ The output will display:
 Feel free to fork the repo, suggest improvements, or extend the parser to support more complex sentence structures.
 
 ---
-
-Let me know if you'd like to add diagrams, sample outputs, or even convert this into a visual grammar tree using a GUI or web-based frontend.
